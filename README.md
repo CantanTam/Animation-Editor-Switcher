@@ -1,5 +1,6 @@
 # Animation-Editor-Switcher
 make Blender anmiation editor switching a little more easier
+
 使 Blender 动画编辑区域的切换更快一点点
 
 # 使用方法
