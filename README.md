@@ -12,8 +12,5 @@ Blender 原来的切换动画编辑区不够快速，即使使快捷键还是不
 ---
 
 # 打个广告
-我刚开始使用 github ，README.md 都不怎么会用，请直接查看这个视频教程吧：
-**[Obsidian 网络搜索插件使用教程（ Web Search ）](https://www.bilibili.com/video/BV1KPvNeuECD)**
-
-搜索截图：
-![截图](https://github.com/CantanTam/obsidian-web-search/blob/main/images/1.png)
+我还做了一些**达芬奇**、**blender**、**obsidian**插件，有兴趣的，可以去我B站瞄瞄 →→→ 
+[就叫吴爱明](https://space.bilibili.com/391504171)
