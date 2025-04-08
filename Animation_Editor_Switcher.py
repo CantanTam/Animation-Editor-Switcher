@@ -183,7 +183,7 @@ class ANIMATION_MT_menu(bpy.types.Menu):
 # -----------------------------------------------
 class WM_OT_alt_right_click_menu(bpy.types.Operator):
     bl_idname = "wm.alt_right_click_menu"
-    bl_label = "Alt+右键菜单"
+    bl_label = "切换动画编辑模式"
 
     def invoke(self, context, event):
         if context.preferences.addons[__name__].preferences.show_context_menu:
